@@ -5,17 +5,3 @@ Somos PerceptTech, uma equipe dedicada a entregar produtos de qualidade para nos
 ## Sobre Nós
 
 ## Nossos Projetos
-## Equipe
-
-- [Nome do Membro 1](link para o perfil do GitHub ou LinkedIn)
-- [Nome do Membro 2](link para o perfil do GitHub ou LinkedIn)
-- [Nome do Membro 3](link para o perfil do GitHub ou LinkedIn)
-
-## Contato
-
-Para mais informações, entre em contato conosco:
-
-- Email: [email de contato]
-- LinkedIn: [link para LinkedIn]
-- Twitter: [link para Twitter]
-
