@@ -2,7 +2,7 @@
 
 Somos PerceptTech, uma equipe dedicada a entregar produtos de qualidade para nossos clientes e fazer eles perceberem o quanto que o mundo da tecnologia é incrivel. Aqui você encontrará informações sobre nossos projetos e informações para contato.
 
-# TECNOLOGIAS UTILIZADAS:
+# TECNOLOGIAS QUE UTILIZAMOS:
 
 <div style="display: inline-block"><br/>
   <img align= "center" alt= "HTML5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
