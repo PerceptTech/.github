@@ -1,6 +1,7 @@
 ![Cópia de Banner para Linkedin capa de perfil advogada trabalhista](https://github.com/PerceptTech/.github/assets/109475692/2716e5e1-2753-4934-a000-d750c90902ad)
 
 # Bem-vindo à PerceptTech
+### A minha, a sua, a nossa percepção sobre tecnologia.🚀
 Na PerceptTech, somos apaixonados por tecnologia e comprometidos em entregar produtos de qualidade que superam as expectativas dos nossos clientes. Nossa missão é fazer com que você perceba o quanto o mundo da tecnologia pode ser incrível e transformador.
 
 Somos uma equipe dedicada de profissionais especializados, trabalhando incansavelmente para desenvolver soluções inovadoras que atendem às suas necessidades. Seja na implementação de sistemas empresariais, no desenvolvimento de software personalizado ou na prestação de serviços de consultoria tecnológica, estamos prontos para ajudar você a alcançar seus objetivos.
