@@ -42,10 +42,5 @@ A PerceptTech está aqui para guiá-lo no emocionante mundo da tecnologia. Junte
   <img align= "center" alt= "jquery" src= "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img align= "center" alt= "vuejs" src= "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   <img align= "center" alt= "php" src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> -->
-  <br/>
-  <hr/>
-  <br/>
-  
+ 
 <div/>
-
-<hr/>
