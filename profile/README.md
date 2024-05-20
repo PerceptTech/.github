@@ -1,6 +1,17 @@
 ![Cópia de Banner para Linkedin capa de perfil advogada trabalhista](https://github.com/PerceptTech/.github/assets/109475692/2716e5e1-2753-4934-a000-d750c90902ad)
 
-Somos PerceptTech, uma equipe dedicada a entregar produtos de qualidade para nossos clientes e fazer eles perceberem o quanto que o mundo da tecnologia é incrivel. Aqui você encontrará informações sobre nossos projetos e informações para contato.
+# Bem-vindo à PerceptTech
+Na PerceptTech, somos apaixonados por tecnologia e comprometidos em entregar produtos de qualidade que superam as expectativas dos nossos clientes. Nossa missão é fazer com que você perceba o quanto o mundo da tecnologia pode ser incrível e transformador.
+
+Somos uma equipe dedicada de profissionais especializados, trabalhando incansavelmente para desenvolver soluções inovadoras que atendem às suas necessidades. Seja na implementação de sistemas empresariais, no desenvolvimento de software personalizado ou na prestação de serviços de consultoria tecnológica, estamos prontos para ajudar você a alcançar seus objetivos.
+
+# Nossos Projetos
+Na PerceptTech, cada projeto é uma oportunidade de inovar e criar algo extraordinário. Nossos projetos variam desde a criação de aplicações eficientes para empresas até soluções tecnológicas sustentáveis para o meio ambiente e a agricultura. Nosso foco está sempre na qualidade, eficiência e na satisfação do cliente.
+
+# Contato
+Estamos sempre à disposição para ouvir suas necessidades e colaborar em novos projetos. Entre em contato conosco para saber mais sobre como podemos ajudar a transformar suas ideias em realidade.
+
+A PerceptTech está aqui para guiá-lo no emocionante mundo da tecnologia. Junte-se a nós e descubra como a inovação pode transformar sua vida e seus negócios.
 
 # TECNOLOGIAS QUE UTILIZAMOS:
 
